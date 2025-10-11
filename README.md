@@ -198,11 +198,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/librebrowse-secure/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/librebrowse-secure/discussions)
+- **Issues**: [GitHub Issues](https://github.com/libreakira-580/librebrowse-secure/issues)
 
 ---
 
 **Made with privacy in mind** 🛡️
 
-*LibreBrowse Secure - Browse freely, leave no trace.*
+*LibreBrowse Secure - Browse freely, leave no trace fuck big companies.*
