@@ -43,7 +43,7 @@ A privacy-first, minimal browser built on Electron that focuses on security, loc
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/librebrowse-secure.git
+git clone https://github.com/libreakira-580/librebrowse-secure.git
 cd librebrowse-secure
 ```
 
