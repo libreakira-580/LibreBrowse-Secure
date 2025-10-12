@@ -169,7 +169,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - **Basic UI** - Intentionally minimal to reduce attack surface
 - **Certificate Warnings** - Self-signed certificates will show warnings (this is intentional for security)
 
-## 📋 Roadmap
+## 📋 Roadmap ( i will prob get this done by gta 6 launch date)
 
 - [ ] Import/Export bookmarks (encrypted)
 - [ ] Multiple tab support with isolation
