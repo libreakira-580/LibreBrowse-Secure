@@ -17,7 +17,7 @@ This repository contains a polished, production-ready scaffold for **LibreBrowse
 Prerequisites: Node.js 18+, build tools for native modules (keytar)
 
 ```bash
-git clone <repo>
+git clone https://github.com/libreakira-580/LibreBrowse-Secure
 cd LibreBrowse-Nextgen-Svelte
 npm install
 npm run dev
